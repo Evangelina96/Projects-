@@ -1,2 +1,3 @@
 # Projects-
-I have added the projects I developed during my experience at University College Cork as a part of my Master’s in computing Science.
+This repository consists of the list of projects developed during my Master's in Computing Science at University College Cork.
+
